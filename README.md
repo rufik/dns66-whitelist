@@ -1,0 +1,1 @@
+# dns66-whitelist
